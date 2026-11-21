@@ -78,7 +78,9 @@ These come from what the Subsonic API allows.
 
    Click **Test connection** to check the details, then **OK**.
 
-7. The sync is now available from **Tools → Sync ratings and playcounts to Navidrome**.
+7. The sync is now available from **Tools → Sync ratings and playcounts to Navidrome**. In MusicBee's default layout, click the **MusicBee** menu at the top left to reach the Tools menu.
+
+   ![The sync item at the bottom of MusicBee's Tools menu](docs/tools-menu.png)
 
 ## Before your first sync
 
@@ -87,6 +89,8 @@ These come from what the Subsonic API allows.
 **Run a preview first.** Tick **Preview only** in the settings and run the sync. Nothing on the server is touched, and every change that would be made is written to the log. When the log looks right, untick **Preview only** and run it for real.
 
 ## Settings
+
+![The Navidrome Sync settings window](docs/settings.png)
 
 | Setting | What it does |
 | --- | --- |
